@@ -1,0 +1,10 @@
+(ns wator.config)
+
+(def water-evolution-rate 0.99999)
+(def fish-evolution-rate 0.99999)
+(def fish-reproduction-age 6)
+(def shark-reproduction-age 5)
+(def shark-reproduction-health 8)
+(def shark-starting-health 5)
+(def shark-eating-health 5)
+(def shark-max-health 10)
